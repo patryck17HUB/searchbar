@@ -28,7 +28,38 @@ const products = [
         name: 'Leche de Avena',
         price: 28.00,
         description: 'Leche de avena sin azúcar',
-    }
+    },
+    {
+        id: 6,
+        name: 'Pan Bimbo Blanco',
+        price: 35.00,
+        description: 'Pan blanco de caja',
+    },
+    {
+        id: 7,
+        name: 'Nutella',
+        price: 55.00,
+        description: 'Crema de avellanas y cacao',
+    },
+    {
+        id: 8,
+        name: 'Vino tinto Merlot',
+        price: 120.00,
+        description: 'Vino tinto Merlot de la casa',
+    },
+    {
+        id: 9,
+        name: 'Salsa de Soya',
+        price: 15.00,
+        description: 'Salsa de soya baja en sodio',
+    },
+    {
+        id: 10,
+        name: 'Pasta de Dientes Colgate',
+        price: 25.00,
+        description: 'Pasta de dientes Colgate 100g',
+    },
+
 ];
 
 export default products;
